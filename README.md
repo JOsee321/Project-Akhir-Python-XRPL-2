@@ -3,7 +3,7 @@
 Proyek ini dibuat untuk memenuhi tugas **Project Akhir Python** pada semester ini untuk kelas **X RPL 2**. Aplikasi ini merupakan implementasi dari konsep dasar pemrograman yang telah dipelajari di kelas Rekayasa Perangkat Lunak.
 
 ## 📝 Identitas Project
-*   **Mata Pelajaran**: Pemrograman Dasar (Python)[cite: 1]
+*   **Mata Pelajaran**: Pemrograman Dasar (Python)
 *   **Kelas**: X RPL 2
 *   **Judul Project**: Game Gunting Batu Kertas
 *   **Pengembang**: Rafi Wildan
